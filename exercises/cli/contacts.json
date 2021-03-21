@@ -1,7 +1,17 @@
 {
-  "adfsadf asfdasdf": {
-    "firstName": "adfsadf",
-    "lastName": "asfdasdf",
-    "phoneNumber": "asfdsf"
+  "Brian Holt": {
+    "firstName": "Brian",
+    "lastName": "Holt",
+    "phoneNumber": "+1888-777-6666"
+  },
+  "Endy de Almeida": {
+    "firstName": "Endy",
+    "lastName": "de Almeida",
+    "phoneNumber": "+551798888-7777"
+  },
+  "Scott Moss": {
+    "firstName": "Scott",
+    "lastName": "Moss",
+    "phoneNumber": "+1777-555-2222"
   }
 }
